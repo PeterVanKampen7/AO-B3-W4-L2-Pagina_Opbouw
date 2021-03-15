@@ -3,10 +3,10 @@
     <section id="left">
         <p>
             The Mistborn Trilogy follows the adventures of a young girl named Vin. The setting of this book is a quite
-            interesting one. It takes place in a where eons ago, the chosen hero failed. Now the world is no lon ger the 
+            interesting one. It takes place in a where eons ago, the chosen hero failed. Now the world is no longer the 
             way it is supposed to be. The plants are no longer green, but an ugly brown, the sky is no longer blue but red,
             every night the entire world is covered in a thick mist that makes it hard to see your hand before your eyes, and
-            ash frequently rains from the sky. To top this all of the entire world is ruled by an iron-fisted immortak dictator 
+            ash frequently rains from the sky. To top this all of the entire world is ruled by an iron-fisted immortal dictator 
             named The Lord Ruler. 
             <br><br>
             The people of the world are divided into two groups, the Nobles and the Skaa. The Nobles are rich and enjoy being on
