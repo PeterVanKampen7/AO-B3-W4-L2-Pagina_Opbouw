@@ -6,7 +6,7 @@
             <li><a href="index.php?page=mistborn">Mistborn</a></li>
             <li><a href="index.php?page=stormlight">Stormlight Archive</a></li>
             <li><a href="index.php?page=lotr">Lord of the Rings</a></li>
-            <li><a href="index.php?page=kingkiller">Kingkiller Chronicles</a></li>
+            <li><a href="index.php?page=wot">The Wheel of Time</a></li>
         </ul>
     </nav>
 </header>
