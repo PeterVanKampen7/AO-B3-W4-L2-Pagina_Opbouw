@@ -1,3 +1,3 @@
 <footer>
-    &copy; Peter van Kampen 2021
+    &copy; Peter van Kampen <?php echo date("d/m/Y"); ?>
 </footer>

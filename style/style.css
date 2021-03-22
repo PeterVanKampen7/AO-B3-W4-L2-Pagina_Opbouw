@@ -27,7 +27,7 @@ nav ul{
 
 nav ul li{
     display: inline;
-    padding: 10px 20px;
+    padding: 10px 30px;
     background-color: gray;
     transition: 0.3s ease;
 }
@@ -63,7 +63,6 @@ p{
 article img{
     max-width: 98%;
     margin: 15px 0;
-
 }
 
 #left{

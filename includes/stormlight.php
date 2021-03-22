@@ -15,9 +15,13 @@
             side the enemy is waiting with bows and arrows. Bridgemen die soon. But Kaladin remains among the living, while around him strange
             things start happening.
             <br><br>
-            Shallan
+            Shallan is a young girl, who comes to a big city apply to be the apprentice of a well known scholar. Through various cunning ways she
+            manages to get herself accepted as apprentice. However, Shallan has not come to learn, she came to steal a magical focus from her mentor,
+            a fabrial. 
             <br><br>
-            Dalinar
+            Dalinar is a older man who used to be a soldier. He is the brother of a murdered king, and is currently campaigning to avenge the death
+            of his brother Gavilar. This campaign brings him to the Shattered Plains, the same location that Kaladin is. Here he struggles with his own
+            sense of honor and duty, and starts questioning his own sanity when he starts having visions.
         </p>
     </section>
     <section id="right">
