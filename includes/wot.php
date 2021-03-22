@@ -1,5 +1,5 @@
 <article>
-    <h1>The Kingkiller Chronicles</h1>
+    <h1>The Wheel of Time</h1>
     <section id="left">
 
     </section>
